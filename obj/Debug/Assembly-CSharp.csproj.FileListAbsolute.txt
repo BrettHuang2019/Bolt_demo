@@ -1,0 +1,2 @@
+C:\Study\Bolt_demo\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Study\Bolt_demo\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
